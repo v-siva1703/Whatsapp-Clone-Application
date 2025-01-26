@@ -1,4 +1,4 @@
-# Whatsapp-Clone-Application
+# Whatsapp-Clone-Application UI/UX
 
 ## WhatsApp Clone - UI/UX Design Using Figma
 
