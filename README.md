@@ -5,6 +5,13 @@
 **Description:**
 This repository contains the UI/UX design for a WhatsApp Clone application created using Figma. The project aims to replicate the key features of WhatsApp, focusing on building a user-friendly, interactive, and aesthetically pleasing interface for a messaging app. This design showcases core functionality like chat interfaces, status updates, voice/video calls, and profile settings, following modern design principles and best practices for mobile applications.
 
+## Outcome of the project
+
+https://github.com/user-attachments/assets/1dce4e32-e2a2-4a68-a9c4-6ec9c49be548
+
+![image](https://github.com/user-attachments/assets/5c5baa01-d343-4931-8ced-660bec8f4fe5)
+
+
 ## Features:
 * **Chat List Screen:** A dynamic list showing recent chats, contact names, last message previews, and profile pictures.
 
